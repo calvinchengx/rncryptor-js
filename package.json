@@ -1,0 +1,9 @@
+{
+  "name": "rncryptor-js",
+  "description": "rncryptor-js",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "sjcl": "^1.0.1"
+  }
+}
