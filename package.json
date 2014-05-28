@@ -1,9 +1,26 @@
 {
   "name": "rncryptor-js",
-  "description": "rncryptor-js",
-  "version": "0.1.0",
-  "private": false,
-  "dependencies": {
-    "sjcl": "1.0.1"
-  }
+  "version": "0.0.1",
+  "description": "A fork of rncryptor-js",
+  "main": "rncryptor.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinchengx/rncryptor-js.git"
+  },
+  "keywords": [
+    "encrypt",
+    "EVERYTHING!!!!"
+  ],
+  "author": "Calvin Cheng",
+  "license": "Use as you please. Don't blame me.",
+  "bugs": {
+    "url": "https://github.com/calvinchengx/rncryptor-js/issues"
+  },
+  "homepage": "https://github.com/calvinchengx/rncryptor-js"
 }
